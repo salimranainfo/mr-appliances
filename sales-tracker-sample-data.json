@@ -1,0 +1,117 @@
+{
+  "header": "Race to a Million",
+  "company_logo_url": "https://placehold.co/150",
+  "week_current_number": 6,
+  "week_upper_bound": 52,
+  "current_year": 2021,
+  "current_month": 12,
+  "current_date": 23,
+  "revenue_goal": {
+    "lower_bound": 716000,
+    "upper_bound": 1000000,
+    "current": 856000,
+    "projected": 975000
+  },
+  "technicians": [
+    {
+      "name": "Josh R.",
+      "image_url": "https://placehold.co/150",
+      "revenue_goal": {
+        "lower_bound": 0,
+        "upper_bound": 5000,
+        "current": 5891
+      },
+      "close_rate": {
+        "current": 0.76
+      },
+      "qr_magic": {
+        "current": 6,
+        "goal": 20
+      },
+      "reviews": {
+        "dollar_value": 80
+      }
+    },
+    {
+      "name": "Alex K.",
+      "image_url": "https://placehold.co/150",
+      "revenue_goal": {
+        "lower_bound": 0,
+        "upper_bound": 5000,
+        "current": 4775
+      },
+      "close_rate": {
+        "current": 0.78
+      },
+      "qr_magic": {
+        "current": 0,
+        "goal": 20
+      },
+      "reviews": {
+        "dollar_value": 0
+      }
+    },
+    {
+      "name": "Yervant C.",
+      "image_url": "https://placehold.co/150",
+      "revenue_goal": {
+        "lower_bound": 0,
+        "upper_bound": 5000,
+        "current": 3234
+      },
+      "close_rate": {
+        "current": 0.76
+      },
+      "qr_magic": {
+        "current": 11,
+        "goal": 20
+      },
+      "reviews": {
+        "dollar_value": 20
+      }
+    },
+    {
+      "name": "Cymone B.",
+      "image_url": "https://placehold.co/150",
+      "revenue_goal": {
+        "lower_bound": 0,
+        "upper_bound": 5000,
+        "current": 2750
+      },
+      "close_rate": {
+        "current": 0.75
+      },
+      "qr_magic": {
+        "current": 1,
+        "goal": 20
+      },
+      "reviews": {
+        "dollar_value": 60
+      }
+    },
+    {
+      "name": "Alex C.",
+      "image_url": "https://placehold.co/150",
+      "revenue_goal": {
+        "lower_bound": 0,
+        "upper_bound": 5000,
+        "current": 2508
+      },
+      "close_rate": {
+        "current": 0.81
+      },
+      "qr_magic": {
+        "current": 0,
+        "goal": 20
+      },
+      "reviews": {
+        "dollar_value": 0
+      }
+    }
+  ],
+  "configuration": {
+    "dollar_per_review": 20,
+    "technician_revenue_background_increment": 1000
+  },
+  "_v": "1.0"
+}
